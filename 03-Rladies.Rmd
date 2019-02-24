@@ -34,6 +34,7 @@ gender diversity in the R community.
 ### France
 
   * Paris: [Paris](https://www.meetup.com/rladies-paris/)
+  * Montpellier: [Montpellier](https://www.meetup.com/rladies-montpellier/)
   
 ### Germany
 
